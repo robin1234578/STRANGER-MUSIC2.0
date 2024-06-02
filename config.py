@@ -47,7 +47,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/robin_ki_wify_143")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/A2ZQUIZBYROBIN")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Doctoradddaa")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
@@ -78,20 +78,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 
 
    
-# ██████╗░██████╗░░█████╗░██╗░░██╗███████╗███╗░░██╗
-# ██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔════╝████╗░██║
-# ██████╦╝██████╔╝██║░░██║█████═╝░█████╗░░██╔██╗██║
-# ██╔══██╗██╔══██╗██║░░██║██╔═██╗░██╔══╝░░██║╚████║
-# ██████╦╝██║░░██║╚█████╔╝██║░╚██╗███████╗██║░╚███║
-# ╚═════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝
-# 
-#      ███╗░░░███╗██╗░░░██╗░██████╗██╗░█████╗░
-#      ████╗░████║██║░░░██║██╔════╝██║██╔══██╗
-#      ██╔████╔██║██║░░░██║╚█████╗░██║██║░░╚═╝
-#      ██║╚██╔╝██║██║░░░██║░╚═══██╗██║██║░░██╗
-#      ██║░╚═╝░██║╚██████╔╝██████╔╝██║╚█████╔╝
-#      ╚═╝░░░░░╚═╝░╚═════╝░╚═════╝░╚═╝░╚════╝░
-
+# 👻 #_4‌sᴛ 𝐎ᴘ💗𝐁ᴀᴋᴋɪ 𝐒ᴀʙ #𝐋ᴀɴᴅ 𝐊ɪ 𝐓ᴏᴘɪ💘
 
 
 
@@ -104,7 +91,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/bfe04019445939fa049ac.png"
+    "START_IMG_URL", "https://telegra.ph/file/328091b36fbf75db0af60.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/80e35d93784e239bdc86c.jpg"
